@@ -878,3 +878,56 @@ video {
   --tw-drop-shadow: drop-shadow(0 25px 25px rgb(0 0 0 / 0.15));
   filter: var(--tw-blur) var(--tw-brightness) var(--tw-contrast) var(--tw-grayscale) var(--tw-hue-rotate) var(--tw-invert) var(--tw-saturate) var(--tw-sepia) var(--tw-drop-shadow);
 }
+
+.hover\:tw-bg-os-dkb:hover {
+  --tw-bg-opacity: 1;
+  background-color: hsl(223 47% 23% / var(--tw-bg-opacity));
+}
+
+.hover\:tw-bg-os-pb:hover {
+  --tw-bg-opacity: 1;
+  background-color: hsl(225 100% 94% / var(--tw-bg-opacity));
+}
+
+.hover\:tw-bg-os-db:hover {
+  --tw-bg-opacity: 1;
+  background-color: hsl(224 23% 55% / var(--tw-bg-opacity));
+}
+
+.hover\:tw-bg-os-bb\/50:hover {
+  background-color: hsl(245 75% 52% / 0.5);
+}
+
+.hover\:tw-bg-os-bb\/5:hover {
+  background-color: hsl(245 75% 52% / 0.05);
+}
+
+.hover\:tw-bg-os-bb\/60:hover {
+  background-color: hsl(245 75% 52% / 0.6);
+}
+
+.hover\:tw-bg-os-bb\/70:hover {
+  background-color: hsl(245 75% 52% / 0.7);
+}
+
+.hover\:tw-text-os-dkb:hover {
+  --tw-text-opacity: 1;
+  color: hsl(223 47% 23% / var(--tw-text-opacity));
+}
+
+.active\:tw-bg-os-bb\/70:active {
+  background-color: hsl(245 75% 52% / 0.7);
+}
+
+.active\:tw-text-os-dkb:active {
+  --tw-text-opacity: 1;
+  color: hsl(223 47% 23% / var(--tw-text-opacity));
+}
+
+.active\:tw-text-os-bb\/70:active {
+  color: hsl(245 75% 52% / 0.7);
+}
+
+.active\:tw-no-underline:active {
+  text-decoration-line: none;
+}
