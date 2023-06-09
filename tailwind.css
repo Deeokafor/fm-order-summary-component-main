@@ -1,3 +1,9 @@
 @tailwind base;
 @tailwind utilities;
 @tailwind components;
+
+@layer components {
+    .transition-general {
+        @apply tw-transition-all tw-duration-1000
+    }
+}
