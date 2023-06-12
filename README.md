@@ -63,7 +63,7 @@ consolidating tailwindcss skills in progress...
 
 - Website - [Okafor-udah Divine Chukwunwemmeri](https://deedev.netlify.app/)
 - Frontend Mentor - [@Deeokafor](https://www.frontendmentor.io/profile/Deeokafor)
-- Twitter - [@@dee_okafor](https://www.twitter.com/dee_okafor)
+- Twitter - [@dee_okafor](https://www.twitter.com/dee_okafor)
 
 
 ### Acknowledgements
