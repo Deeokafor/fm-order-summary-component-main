@@ -6,7 +6,7 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
+  - [Screenshot](#screenshots)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
@@ -24,15 +24,34 @@ Users should be able to:
 
 - See hover states for interactive elements
 
-### Screenshot
+### Screenshots
 
-![](./assets/images/order_summary_mobile.png)
+<figure>
+  <img src="./assets/images/order_summary_mobile.png" width="250">
+  <figcaption style="margin: 5px 0; padding: 5px 10px; background: rgba(255,255,255,0.1); border-radius: 6px">Screenshot mobile</figcaption>
+</figure>
 
->> Mobile Screenshot
+<figure>
+  <img src="./assets/images/order_summary_desktop.png" width="1920px">
+  <figcaption style="margin: 5px 0; padding: 5px 10px; background: rgba(255,255,255,0.1); border-radius: 6px">Screenshot desktop</figcaption>
+</figure>
 
-![](assets/images/order_summary_desktop.png)
+<figure>
+  <img src="./assets/images/order_summary_active_on_proceed_payment.png">
+  <figcaption style="margin: 5px 0; padding: 5px 10px; background: rgba(255,255,255,0.1); border-radius: 6px; text-transform: capitalize">proceed to payment active state</figcaption>
+</figure>
 
->> Desktop Screenshot
+<figure>
+  <img src="./assets/images/order_summary_active_on_cancel_order.png"/>
+  <figcaption style="margin: 5px 0; padding: 5px 10px; background: rgba(255,255,255,0.1); border-radius: 6px; text-transform: capitalize">cancel order active state</figcaption>
+</figure>
+
+<figure>
+  <img src="./assets/images/order_summary_active_on_change.png">
+  <figcaption style="margin: 5px 0; padding: 5px 10px; background: rgba(255,255,255,0.1); border-radius: 6px; text-transform: capitalize">change plan active state</figcaption>
+</figure>
+
+
 
 ### Links
 
@@ -52,20 +71,19 @@ Users should be able to:
 
 ### What I learned
 
-consolidating tailwindcss skills in progress...
+1. I consolidated my knowledge on tweaking the tailwindcss' **config** file to fit the requirements of my project.
+
+2. I learned some additional syntax for **Markdown** as a structural language, and how to apply it to present reports in better visual representations.
 
 
 ### Useful resources
 
 - [google.com/searchbar/LOL](https://www.google.com) - Mhen querying google with billions of request helped me a lot.
 
+- [https://imageresizer.com/](https://imageresizer.com/) - this helped me with resizing my mobile screenshot to the proper display size for inclusion in the README.
+
 ## Author
 
-- Website - [Okafor-udah Divine Chukwunwemmeri](https://deedev.netlify.app/)
+- Website - [deedev.netlify.app](https://deedev.netlify.app/)
 - Frontend Mentor - [@Deeokafor](https://www.frontendmentor.io/profile/Deeokafor)
 - Twitter - [@dee_okafor](https://www.twitter.com/dee_okafor)
-
-
-### Acknowledgements
-
-- Imageresizer.com was super helpful >> <a href="https://imageresizer.com/" target="_blank">Image Resizer</a>
